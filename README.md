@@ -1,6 +1,3 @@
-Sure! Here's the README file written in Markdown format:
-
-```markdown
 # Wine Quality Prediction - Spark Application
 
 This project involves training a wine quality prediction machine learning model using Apache Spark on AWS EC2 instances. The model is trained in parallel on four EC2 instances and is designed for wine quality prediction based on input datasets.
