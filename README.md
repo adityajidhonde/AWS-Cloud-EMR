@@ -1,4 +1,4 @@
-# Wine Quality Prediction - Spark Application
+# Wine Quality Prediction - Spark Application by ad2252(CS 643 859)
 
 This project involves training a wine quality prediction machine learning model using Apache Spark on AWS EC2 instances. The model is trained in parallel on four EC2 instances and is designed for wine quality prediction based on input datasets.
 
@@ -169,8 +169,4 @@ The metrics are printed after each model evaluation in the console.
 - The dataset provided for training, validation, and testing.
 
 ---
-
-This README provides the necessary instructions to run the wine quality prediction application using Apache Spark and Docker. Make sure your environment is set up properly, and you can use the scripts to train and test the models as described.
-```
-
-You can copy-paste this into a `.md` file for your project.
+# Thank You Aditya Dhonde
